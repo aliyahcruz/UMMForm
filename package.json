@@ -1,0 +1,24 @@
+{
+  "name": "umms-formulary-location-search",
+  "version": "4.1.0-home-infusion-verified",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "fuse.js": "7.0.0",
+    "next": "14.2.23",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.23"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
